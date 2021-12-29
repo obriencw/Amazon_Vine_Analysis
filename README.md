@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis of the Vine program
-In this project we analyzed the product reviews information from one of the many Amazon review datasets.  For our analysis, we chose the sports data which contains the following information: unique review_id, star_rating out of 5, total amount of helpful_votes, amount of total_votes, is there a vine membership for this review, and whether or not the review was a verified_purchase  The purpose of this analysis was to determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid).
+This project analyzed the product reviews information from one of the many Amazon review datasets.  The purpose of this project was to perform Extract, Transform and Load (ETL) process.  This analysis utilizes the sports data which contains the following information: unique review_id, star_rating out of 5, total amount of helpful_votes, amount of total_votes, is there a vine membership for this review, and whether or not the review was a verified_purchase  The purpose of this analysis was to determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid).
 ## Results
 - From our analysis, we were able to determine that there were a total of 334 Vine reviews as evidenced by the number of rows in the table below.
 
